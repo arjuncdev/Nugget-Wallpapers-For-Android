@@ -1,0 +1,14 @@
+PASS  EngineTests.batterSetOptionPatchesTheNuggetIdElementInsideTheArchiveCopy
+PASS  EngineTests.catalogManifestParsesAndUrlsAreEncoded
+PASS  EngineTests.cgPathStringsAndTiming
+PASS  EngineTests.everySampleRendersThroughAllStatesWithBalancedCanvasAndNoMissingImages
+PASS  EngineTests.geometryFlippedZeroMeansYUpAndOneMeansYDown
+PASS  EngineTests.jsonIsTolerant
+PASS  EngineTests.mojoParallaxRangesAreAbsoluteValues
+PASS  EngineTests.nightCityIsDiscoveredAsThreeLayerPackages
+PASS  EngineTests.springIsNormalisedAndSettles
+PASS  EngineTests.transformStringsDecomposeAndRowVectorMatricesWork
+PASS  EngineTests.xmlPlistWithDoctypeAndInfinity
+PASS  EngineTests.xmlReaderStopsAfterRootAndToleratesTrailingJunk
+---- 12 passed, 0 failed
+EXIT=0 ELAPSED=66s

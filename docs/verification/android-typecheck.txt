@@ -1,0 +1,1 @@
+android sources (non-Compose) type-check OK: 10 files (kotlinc 2.1.20 against android.jar API 35, OkHttp/coroutines stubs)

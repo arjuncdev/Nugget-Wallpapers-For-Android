@@ -1,0 +1,182 @@
+[ OK ] apple/Defaults.tendies                       variants=3 BOKEH+LAYERED_ANIMATION+LAYERED_STRIPE docs=3 layers=20 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] apple/Desert.tendies                         variants=4 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/Lake.tendies                           variants=4 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/iOS13.tendies                          variants=4 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/iOS14.tendies                          variants=6 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/iOS15.tendies                          variants=2 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/iOS16.tendies                          variants=2 LAYERED_ANIMATION+STILL            docs=3 layers=20 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] apple/iOS17.tendies                          variants=3 LAYERED_ANIMATION                  docs=5 layers=57 anims=0 states=108 trans=216 missingImg=0 unsupported=
+[ OK ] apple/iPadAirGen4.tendies                    variants=5 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/iPadAirGen5.tendies                    variants=5 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/iPadAirGen6.tendies                    variants=4 LAYERED_ANIMATION                  docs=4 layers=44 anims=16 states=24 trans=48 missingImg=0 unsupported=
+[ OK ] apple/iPadMiniGen6.tendies                   variants=4 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[NONE] apple/iPhone 16 Pro.tendies                  Not supported: Apple's procedural Mercury poster (rendered by a native shader, no layer data)
+[NONE] apple/iPhone 16.tendies                      Not supported: Apple's procedural Mercury poster (rendered by a native shader, no layer data)
+[ OK ] apple/iPhone 16e.tendies                     variants=1 PARAMETERIZED_CA                   docs=1 layers=50 anims=0 states=0 trans=0 missingImg=0 unsupported=CABackdropLayer,CAFilter:luminanceCurveMap
+[NONE] apple/iPhone 17 Pro.tendies                  Not supported: Apple's procedural Mercury poster (rendered by a native shader, no layer data)
+[ OK ] apple/iPhone 17.tendies                      variants=5 PARAMETERIZED_CA                   docs=4 layers=128 anims=0 states=0 trans=0 missingImg=0 unsupported=CAFilter:bias
+[NONE] apple/iPhone 18 Pro.tendies                  Not supported: Apple's procedural Mercury poster (rendered by a native shader, no layer data)
+[NONE] apple/iPhone Air.tendies                     Not supported: Apple's procedural Mercury poster (rendered by a native shader, no layer data)
+[ OK ] apple/iPhone11.tendies                       variants=6 LIVE                               docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/iPhone14.tendies                       variants=6 LAYERED_ANIMATION                  docs=4 layers=16 anims=0 states=12 trans=24 missingImg=0 unsupported=
+[ OK ] apple/iPhone14Pro.tendies                    variants=4 LAYERED_ANIMATION                  docs=4 layers=68 anims=0 states=12 trans=24 missingImg=0 unsupported=
+[ OK ] apple/iPhone15.tendies                       variants=5 LAYERED_ANIMATION                  docs=8 layers=56 anims=0 states=96 trans=192 missingImg=0 unsupported=CABackdropLayer
+[ OK ] apple/iPhone15Pro.tendies                    variants=4 LAYERED_ANIMATION                  docs=8 layers=84 anims=48 states=96 trans=192 missingImg=0 unsupported=
+[NONE] apple/iPhone17e.tendies                      Not supported: Apple's procedural Mercury poster (rendered by a native shader, no layer data)
+[ OK ] apple/iPhoneSEGen2.tendies                   variants=6 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] apple/iPhoneSEGen3.tendies                   variants=3 STILL                              docs=0 layers=0 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] custom/AltStore.tendies                      variants=2 LAYERED_ANIMATION+STILL            docs=3 layers=11 anims=1 states=9 trans=12 missingImg=0 unsupported=
+[ OK ] custom/Amogus.tendies                        variants=1 LAYERED_ANIMATION                  docs=2 layers=17 anims=2 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/AnimalCrossingSeasons.tendies         variants=5 LAYERED_ANIMATION                  docs=12 layers=96 anims=52 states=120 trans=240 missingImg=0 unsupported=
+[ OK ] custom/Apollo15.tendies                      variants=1 LAYERED_ANIMATION                  docs=3 layers=8 anims=4 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/AppleLogo.tendies                     variants=1 LAYERED_ANIMATION                  docs=2 layers=7 anims=1 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/AquaCollection.tendies                variants=4 LAYERED_ANIMATION                  docs=8 layers=16 anims=8 states=96 trans=192 missingImg=0 unsupported=CABackdropLayer
+[ OK ] custom/AutumnCity.tendies                    variants=1 LAYERED_ANIMATION                  docs=3 layers=7 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/BalatroMenu.tendies                   variants=1 LAYERED_ANIMATION                  docs=2 layers=5 anims=1 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/BlackGoku.tendies                     variants=1 LAYERED_ANIMATION                  docs=2 layers=5 anims=1 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/BlackHole.tendies                     variants=1 LAYERED_ANIMATION                  docs=2 layers=39 anims=0 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/Bowser-Jr.tendies                     variants=1 LAYERED_ANIMATION                  docs=3 layers=17 anims=6 states=15 trans=30 missingImg=0 unsupported=
+[ OK ] custom/BrokenScreen.tendies                  variants=1 LAYERED_ANIMATION                  docs=2 layers=6 anims=1 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/Cipher.tendies                        variants=1 LAYERED_ANIMATION                  docs=3 layers=106 anims=28 states=12 trans=24 missingImg=0 unsupported=
+[ OK ] custom/Crome-Hearts-v2.tendies               variants=1 PARAMETERIZED_CA                   docs=1 layers=7 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] custom/Cubes.tendies                         variants=1 LAYERED_ANIMATION                  docs=3 layers=35 anims=25 states=9 trans=20 missingImg=0 unsupported=
+[ OK ] custom/DVDcolor.tendies                      variants=1 LAYERED_ANIMATION                  docs=3 layers=6 anims=3 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/DamnByTrinityHades.tendies            variants=1 LAYERED_ANIMATION                  docs=3 layers=21 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/Dark.tendies                          variants=1 LAYERED_ANIMATION                  docs=3 layers=17 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/DeanBluntZushi.tendies                variants=1 LAYERED_ANIMATION                  docs=1 layers=12 anims=0 states=3 trans=6 missingImg=0 unsupported=
+[ OK ] custom/Desert.tendies                        variants=1 LAYERED_ANIMATION                  docs=2 layers=6 anims=0 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/Dragonball.tendies                    variants=1 LAYERED_ANIMATION                  docs=2 layers=12 anims=436 states=27 trans=55 missingImg=0 unsupported=
+[ OK ] custom/EventHorizon.tendies                  variants=1 LAYERED_ANIMATION                  docs=3 layers=32 anims=4 states=9 trans=18 missingImg=0 unsupported=CABackdropLayer,emitter.capped
+[ OK ] custom/ExplodingColors.tendies               variants=5 LAYERED_ANIMATION                  docs=12 layers=16 anims=0 states=27 trans=54 missingImg=0 unsupported=emitter.capped,emitter.spriteSheet
+[ OK ] custom/FatCat.tendies                        variants=1 LAYERED_ANIMATION                  docs=2 layers=7 anims=1 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/FlappyBird.tendies                    variants=1 LAYERED_ANIMATION                  docs=3 layers=38 anims=3 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/FlappyBirdV2.tendies                  variants=1 PARAMETERIZED_CA                   docs=1 layers=42 anims=3 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] custom/Frieren_Beyond_Journey's_End.tendies  variants=1 LAYERED_ANIMATION                  docs=3 layers=65 anims=61 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/FrutigerAeroV1.tendies                variants=1 LAYERED_ANIMATION                  docs=2 layers=13 anims=436 states=27 trans=55 missingImg=0 unsupported=
+[ OK ] custom/GitHub.tendies                        variants=1 LAYERED_ANIMATION                  docs=3 layers=6 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/Graduation.tendies                    variants=1 LAYERED_ANIMATION                  docs=2 layers=12 anims=436 states=27 trans=55 missingImg=0 unsupported=
+[ OK ] custom/GyroDepths.tendies                    variants=1 PARAMETERIZED_CA                   docs=1 layers=9 anims=1 states=0 trans=0 missingImg=0 unsupported=emitter.spriteSheet
+[ OK ] custom/HarmonyOSEmoji.tendies                variants=1 LAYERED_ANIMATION                  docs=3 layers=11 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/HomebrewChannel.tendies               variants=1 LAYERED_ANIMATION                  docs=2 layers=14 anims=2 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/HomebrewChannelRed.tendies            variants=1 LAYERED_ANIMATION                  docs=2 layers=14 anims=2 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/HonorMagicVFlip.tendies               variants=1 LAYERED_ANIMATION                  docs=2 layers=10 anims=0 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/KakuRenbo.tendies                     variants=1 LAYERED_ANIMATION                  docs=2 layers=5 anims=1 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/Kanye_west_Album_Collage.tendies      variants=1 PARAMETERIZED_CA                   docs=1 layers=9 anims=0 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] custom/Lil_Uzi_Vert_Vs_The_World.tendies     variants=1 LAYERED_ANIMATION                  docs=2 layers=23 anims=9 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/Lofi.tendies                          variants=1 LAYERED_ANIMATION                  docs=3 layers=16 anims=1 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/LumonRunv2TrinityHades.tendies        variants=1 LAYERED_ANIMATION                  docs=3 layers=17 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/MCPanorama.tendies                    variants=1 LAYERED_ANIMATION                  docs=2 layers=5 anims=1 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/MOJOCARROT.tendies                    variants=1 PARAMETERIZED_CA                   docs=1 layers=44 anims=9 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] custom/MacrodataRefinement.tendies           variants=1 LAYERED_ANIMATION                  docs=1 layers=9 anims=1 states=3 trans=6 missingImg=0 unsupported=CABackdropLayer
+[ OK ] custom/MarioGalaxy.tendies                   variants=1 LAYERED_ANIMATION                  docs=2 layers=12 anims=2 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/MarioGamer.tendies                    variants=1 LAYERED_ANIMATION                  docs=2 layers=12 anims=13 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/MarioYoshi.tendies                    variants=1 LAYERED_ANIMATION                  docs=2 layers=12 anims=2 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/MidnightBrisa.tendies                 variants=1 LAYERED_ANIMATION                  docs=2 layers=12 anims=0 states=6 trans=12 missingImg=0 unsupported=CAFilter:colorMonochrome
+[ OK ] custom/Nexus.tendies                         variants=1 LAYERED_ANIMATION                  docs=2 layers=15 anims=10 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] custom/Night_City.tendies                    variants=1 LAYERED_ANIMATION                  docs=3 layers=269 anims=25 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/NintendoSwitch.tendies                variants=1 LAYERED_ANIMATION                  docs=2 layers=14 anims=2 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/P3ClassicTheme.tendies                variants=1 LAYERED_ANIMATION                  docs=2 layers=10 anims=1 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/P3FEMCTheme.tendies                   variants=1 LAYERED_ANIMATION                  docs=2 layers=13 anims=5 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/P4Theme.tendies                       variants=1 LAYERED_ANIMATION                  docs=3 layers=22 anims=4 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/P5RTheme.tendies                      variants=1 LAYERED_ANIMATION                  docs=2 layers=12 anims=10 states=6 trans=12 missingImg=0 unsupported=CABackdropLayer
+[ OK ] custom/P5Theme.tendies                       variants=1 LAYERED_ANIMATION                  docs=3 layers=17 anims=10 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/PatrickSeahorse.tendies               variants=1 LAYERED_ANIMATION                  docs=2 layers=9 anims=3 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/Persona3.tendies                      variants=1 LAYERED_ANIMATION                  docs=2 layers=10 anims=2 states=6 trans=12 missingImg=0 unsupported=CABackdropLayer
+[ OK ] custom/PlayboiCarti-DieLit.tendies           variants=1 LAYERED_ANIMATION                  docs=2 layers=9 anims=10 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/PurpleShapes.tendies                  variants=1 LAYERED_ANIMATION                  docs=3 layers=11 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/RainbowSprinkles.tendies              variants=1 LAYERED_ANIMATION                  docs=2 layers=9 anims=0 states=27 trans=54 missingImg=0 unsupported=emitter.spriteSheet
+[NONE] custom/RickApple.tendies                     Not supported: Photos poster with depth matte (proprietary segmentation data)
+[ OK ] custom/RollingHills.tendies                  variants=1 PARAMETERIZED_CA                   docs=1 layers=36 anims=0 states=3 trans=6 missingImg=0 unsupported=
+[ OK ] custom/Sakura.tendies                        variants=1 LAYERED_ANIMATION                  docs=2 layers=7 anims=0 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/SheikahSlate.tendies                  variants=1 LAYERED_ANIMATION                  docs=2 layers=26 anims=2 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/SimpleMinecraftChest.tendies          variants=1 LAYERED_ANIMATION                  docs=3 layers=10 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/Skelet.tendies                        variants=1 LAYERED_ANIMATION                  docs=2 layers=7 anims=1 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/Snoopy.tendies                        variants=1 LAYERED_ANIMATION                  docs=2 layers=14 anims=1 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/SolarSystem.tendies                   variants=1 LAYERED_ANIMATION                  docs=3 layers=16 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/SonicsGang.tendies                    variants=1 LAYERED_ANIMATION                  docs=3 layers=34 anims=20 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/Space.tendies                         variants=1 LAYERED_ANIMATION                  docs=2 layers=16 anims=0 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/SpinningGear.tendies                  variants=1 LAYERED_ANIMATION                  docs=2 layers=11 anims=1 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/Splatoon-SquidSisters.tendies         variants=1 LAYERED_ANIMATION                  docs=3 layers=15 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/Stars.tendies                         variants=1 LAYERED_ANIMATION                  docs=2 layers=4 anims=0 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/Static_iOS_Internal.tendies           variants=1 LAYERED_ANIMATION                  docs=3 layers=19 anims=6 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/StonksDown.tendies                    variants=1 LAYERED_ANIMATION                  docs=2 layers=8 anims=1 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/StonksUp.tendies                      variants=1 LAYERED_ANIMATION                  docs=2 layers=8 anims=1 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/SuperMarioBros.tendies                variants=1 LAYERED_ANIMATION                  docs=3 layers=10 anims=2 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/Swelvy.tendies                        variants=2 LAYERED_ANIMATION                  docs=2 layers=24 anims=10 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/TeddieP4Golden.tendies                variants=1 LAYERED_ANIMATION                  docs=2 layers=10 anims=3 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/The_Odyssey.tendies                   variants=1 LAYERED_ANIMATION                  docs=3 layers=9 anims=0 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/TintedCubes.tendies                   variants=1 LAYERED_ANIMATION                  docs=2 layers=13 anims=0 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/TrinityHadesSkeletonBoy.tendies       variants=1 PARAMETERIZED_CA                   docs=1 layers=15 anims=0 states=3 trans=6 missingImg=0 unsupported=
+[ OK ] custom/UndertaleRuins.tendies                variants=1 LAYERED_ANIMATION                  docs=3 layers=12 anims=1 states=9 trans=18 missingImg=0 unsupported=CABackdropLayer
+[ OK ] custom/Waves_Bundle_Gyro.tendies             variants=2 PARAMETERIZED_CA                   docs=2 layers=43 anims=18 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] custom/Waves_Bundle_Static.tendies           variants=2 LAYERED_ANIMATION                  docs=6 layers=45 anims=18 states=18 trans=36 missingImg=0 unsupported=
+[ OK ] custom/WheresWaldo.tendies                   variants=1 PARAMETERIZED_CA                   docs=1 layers=17 anims=0 states=6 trans=12 missingImg=0 unsupported=CABackdropLayer,CAFilter:bias,CAFilter:displacementMap
+[ OK ] custom/WiiBeer.tendies                       variants=1 LAYERED_ANIMATION                  docs=2 layers=14 anims=2 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/Xiaomi-YU7.tendies                    variants=1 LAYERED_ANIMATION                  docs=3 layers=9 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/YE_Donda_Era.tendies                  variants=1 PARAMETERIZED_CA                   docs=1 layers=7 anims=2 states=0 trans=0 missingImg=0 unsupported=
+[ OK ] custom/boykisser.tendies                     variants=1 LAYERED_ANIMATION                  docs=2 layers=6 anims=0 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/catvolleyball-lite.tendies            variants=1 LAYERED_ANIMATION                  docs=2 layers=13 anims=1 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/deltarune.tendies                     variants=1 LAYERED_ANIMATION                  docs=3 layers=36 anims=30 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/flower_boy_v1.tendies                 variants=1 LAYERED_ANIMATION                  docs=3 layers=13 anims=0 states=9 trans=18 missingImg=0 unsupported=emitter.spriteSheet
+[ OK ] custom/iOS6Revamp.tendies                    variants=1 LAYERED_ANIMATION                  docs=3 layers=26 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/iOSBackupThings.tendies               variants=1 LAYERED_ANIMATION                  docs=2 layers=13 anims=5 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/iPhone15ProColorCollection.tendies    variants=2 LAYERED_ANIMATION                  docs=4 layers=42 anims=24 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/iPhone15SeaGlass.tendies              variants=6 LAYERED_ANIMATION                  docs=8 layers=56 anims=0 states=96 trans=192 missingImg=1 unsupported=CABackdropLayer
+[ OK ] custom/iPhone_Duo.tendies                    variants=2 LAYERED_ANIMATION                  docs=6 layers=26 anims=0 states=30 trans=60 missingImg=0 unsupported=
+[ OK ] custom/iSoda.tendies                         variants=4 LAYERED_ANIMATION                  docs=8 layers=58 anims=8 states=108 trans=216 missingImg=0 unsupported=
+[ OK ] custom/i_am_in.tendies                       variants=1 LAYERED_ANIMATION                  docs=2 layers=7 anims=0 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/kanyewest.tendies                     variants=1 LAYERED_ANIMATION                  docs=3 layers=6 anims=4 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/neon_lines.tendies                    variants=1 LAYERED_ANIMATION                  docs=2 layers=11 anims=0 states=48 trans=96 missingImg=0 unsupported=
+[ OK ] custom/niko.tendies                          variants=1 LAYERED_ANIMATION                  docs=3 layers=8 anims=1 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/orbitalv1.tendies                     variants=1 LAYERED_ANIMATION                  docs=3 layers=7 anims=0 states=30 trans=60 missingImg=0 unsupported=
+[ OK ] custom/smania.tendies                        variants=1 LAYERED_ANIMATION                  docs=2 layers=29 anims=22 states=27 trans=54 missingImg=0 unsupported=
+[ OK ] custom/ubuntu.tendies                        variants=1 LAYERED_ANIMATION                  docs=3 layers=8 anims=0 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/wave.tendies                          variants=1 LAYERED_ANIMATION                  docs=3 layers=8 anims=1 states=9 trans=18 missingImg=0 unsupported=CABackdropLayer
+[ OK ] custom/wholelottared.tendies                 variants=1 LAYERED_ANIMATION                  docs=2 layers=12 anims=13 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/wiiFIX.tendies                        variants=1 LAYERED_ANIMATION                  docs=3 layers=12 anims=1 states=9 trans=18 missingImg=0 unsupported=
+[ OK ] custom/windows11.tendies                     variants=1 LAYERED_ANIMATION                  docs=2 layers=5 anims=0 states=6 trans=12 missingImg=0 unsupported=
+[ OK ] custom/woopah_3.tendies                      variants=1 LAYERED_ANIMATION                  docs=3 layers=5 anims=1 states=9 trans=18 missingImg=0 unsupported=
+[SKIP] passtheme/AmongUsKeylock.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/BEST_adobe_dog.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Digital.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/DragonBallPass.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/IceCream.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Linux_Distros.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/MinePass_Nightly.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/MinePass_Rainbow.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Monopad.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/OSU!_Hit_Circle.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Planets.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Pokeball_Pass.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Rainbow_Doodle.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Simple_Dots.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Skully.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Snooker_Pass.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/SpaceTravelers.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Star_Lord.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Viva_Pass.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/Waltuh.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/cloudflare.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/colored_numbers.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/consoles.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/dark_red_and_black.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/minecraft.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/neon.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/neon2.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/roman_numerals.passthm (passcode keypad images; no Android equivalent)
+[SKIP] passtheme/simple_dark.passthm (passcode keypad images; no Android equivalent)
+[ OK ] template/LavaLamp.batter                     variants=1 LAYERED_ANIMATION                  docs=1 layers=11 anims=8 states=3 trans=6 missingImg=0 unsupported=
+[ OK ] template/Layers.batter                       variants=1 LAYERED_ANIMATION                  docs=2 layers=10 anims=0 states=12 trans=24 missingImg=0 unsupported=CABackdropLayer
+[ OK ] template/Spatial.batter                      variants=1 LAYERED_ANIMATION                  docs=2 layers=21 anims=3 states=6 trans=12 missingImg=0 unsupported=CAFilter:colorMonochrome
+
+================ SUMMARY ================
+archives=170 ok=134 notRenderable(other provider)=7 failed=0 skipped(passthm)=29 variants=224
+documents=345 layers=2792 animations=1914  archivesWithMissingImages=1 (distinct missing files: 1)
+variant types: {BOKEH=1, LAYERED_ANIMATION=147, LAYERED_STRIPE=1, LIVE=4, PARAMETERIZED_CA=16, STILL=39}
+support classes: {FULL_ENGINE=163, STATIC_IMAGE=39, UNSUPPORTED=2, VIDEO=4}
+unhandled CAML tags (count): {animations/rotate=1, effect=2, eventHandlers=4, filters/CIFilter=10, font=9, layer:CAFilter=3, layer:CASDFElementLayer=5, layer:CASDFLayer=2, layer:CAScrollLayer=1, layer:CGColor=1, layer:MTMaterialLayer=3, layer:integer=1, layoutManager=1, meshTransform=8, shadowColor=1, string=9, variations=7}
+unhandled CAML attributes (count): {CABackdropLayer.backdropRect=1, CABackdropLayer.clearsContext=7, CABackdropLayer.inverseMeshed=2, CABackdropLayer.marginWidth=1, CABackdropLayer.meshTransform=5, CABackdropLayer.opaque=7, CABackdropLayer.sortsSublayers=7, CAEmitterLayer.duration=2, CAEmitterLayer.repeatCount=2, CAFilter.filter=3, CAFilter.inputColorMatrix=3, CAGradientLayer.maskedCorners=1, CALayer.autoresizingMask=1, CALayer.autoreverses=12, CALayer.caplayAutoReverses=5, CALayer.caplayDuration=5, CALayer.caplayFPS=5, CALayer.caplayFrameCount=5, CALayer.caplayFrameExtension=5, CALayer.caplayFramePrefix=5, CALayer.caplayKind=5, CALayer.caplaySyncStateFrameMode=5, CALayer.caplaySyncWWithState=5, CALayer.clearsContext=1, CALayer.contentsDither=11, CALayer.contentsOpaque=14, CALayer.contentsScaling=18, CALayer.contentsSwizzle=5, CALayer.contentsTransform=9, CALayer.continuousCorners=11, CALayer.doubleSided=1, CALayer.duration=1, CALayer.fillMode=2, CALayer.flipsHorizontalAxis=16, CALayer.floating=17, CALayer.hitTestsAsOpaque=2, CALayer.literalContentsCenter=5, CALayer.locked=7, CALayer.meshTransform=13, CALayer.needsDisplayOnBoundsChange=4, CALayer.repeatCount=3, CALayer.repeatDuration=1, CALayer.shadowOpacity=14, CALayer.sortsSublayers=8, CALayer.tiledDirection=1, CALayer.wantsExtendedDynamicRangeContent=2, CAReplicatorLayer.instanceAlphaOffset=1, CASDFElementLayer.floating=2, CAScrollLayer.repeatCount=1, CAScrollLayer.scrollMode=1, CAShapeLayer.repeatDuration=1, CATransformLayer.anchorPointZ=1, CATransformLayer.flipsHorizontalAxis=16, CGColor.value=1, MTMaterialLayer.allowsInPlaceFiltering=1, MTMaterialLayer.recipe=3, MTMaterialLayer.weighting=3, integer.value=1}
+render-time unsupported/approximated (archives): CABackdropLayer=12, CAFilter:bias=2, CAFilter:colorMonochrome=2, CAFilter:displacementMap=1, CAFilter:luminanceCurveMap=1, emitter.capped=2, emitter.spriteSheet=4
+WARNINGS (first 30):
+  template/LavaLamp.batter: nuggetId 'BlurAmount' not found in descriptors/LavaPoster/versions/0/contents/lavalamp.dulark.iphone.wallpaper/LavaPoster.ca/main.caml
+  template/Layers.batter: missing descriptors/LayerPoster_NOTCHEDPLUS/versions/0/contents/layers.dulark.iphone.wallpaper/foreground.ca/main.caml
